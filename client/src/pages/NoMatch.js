@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default function Apply() {
+export default function NoMatch() {
   return (
     <div>
       Hey!
