@@ -1,0 +1,11 @@
+.mission-box {
+  text-align: center;
+  width: 640px;
+  height: 250px;
+  margin: 0 auto;
+}
+
+.mission-box i {
+  font-size: 60px;
+  margin: 30px;
+}
