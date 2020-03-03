@@ -1,9 +1,10 @@
 import React from 'react';
+import PageHeader from '../components/PageHeader';
 
 export default function Donate() {
   return (
     <div>
-      Hey!
+      <PageHeader pageTitle='Make a Contribution'/>
     </div>
   )
 }

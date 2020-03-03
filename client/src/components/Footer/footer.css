@@ -4,6 +4,11 @@
   background-color: #F0EDEE;
 }
 
-a {
+.footer a {
   color: #000000;
+  font-size: 14px;
+}
+
+.footer p {
+  font-size: 14px;
 }

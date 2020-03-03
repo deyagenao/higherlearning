@@ -1,8 +1,9 @@
 .mission-box {
   text-align: center;
-  width: 640px;
-  height: 250px;
+  width: 680px;
+  /* height: 250px; */
   margin: 0 auto;
+  padding-bottom: 50px;
 }
 
 .mission-box i {

@@ -9,7 +9,7 @@ function Footer () {
         <div className='container'>
           <div className='row'>
             <div className='col-lg-6'>
-              <h4>Higher Learning Scholarship Fund</h4>
+              <h5>Higher Learning Scholarship Fund</h5>
               <div className='mt-3 pl-2'>
                 <i className='far fa-envelope d-inline'></i>
                 <a className='d-inline' href='mailto:HigherLearning2019@gmail.com' target='_top'> HigherLearning2019@gmail.com</a>
