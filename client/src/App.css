@@ -42,3 +42,7 @@
 p {
   font-size: 20px;
 }
+
+.main-content {
+  min-height: 600px;
+}
