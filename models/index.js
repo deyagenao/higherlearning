@@ -1,5 +1,6 @@
 module.exports = {
   User: require("./user"),
-  Monthly: require("./monthly"),
-  PickUp: require("./pickup")
+  DonationItem: require("./donationItem"),
+  Applicant: require("./applicant"),
+  EventGuest: require("./eventGuest")
 };
